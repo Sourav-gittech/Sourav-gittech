@@ -1,21 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Sourav Mondal
+
+<hr>
+💬 About Me: 
+
+ - 🔭 I'm currently working on ~ Web Development Back-end || Frameworks
+
+ - 👯 I'm looking to collaborate on ~ Stack development websites || Stack Frameworks
+
+ - 👯 I'm looking to collaborate on ~ Deployment
 
 <!--
-**Sourav-gittech/Sourav-gittech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - 🤔 I'm looking for help with Research on ~ Fuzzy Logic || Expert System || Neural Network
 -->
+
+ - 🌱 I'm currently learning ~ Full Stack Development
+
+ - ⚡ Ask me about ~ Java || PHP || Project Development
+
+ - 😄 Fun fact ~ "It's all O's and 1's"
 
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
+
+
+
