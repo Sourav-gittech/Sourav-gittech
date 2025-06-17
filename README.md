@@ -131,5 +131,6 @@
 
 <hr>
 
-[![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav-gittech&show_icons=true&theme=radical)](https://github.com/Sourav-gittech/github-readme-stats)
+[![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav-gittech&show_icons=true&theme=dark)](https://github.com/Sourav-gittech/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-gittech&layout=compact&show_icons=true&theme=dark)
 
