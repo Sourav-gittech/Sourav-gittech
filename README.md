@@ -23,9 +23,9 @@
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=yes&logoColor=blue)
 
-![React JS]https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Java]https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
