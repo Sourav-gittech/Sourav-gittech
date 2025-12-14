@@ -14,7 +14,7 @@
 
  - 🌱 I'm currently learning ~ Full Stack Development
 
- - ⚡ Ask me about ~ Java || PHP || Project Development
+ - ⚡ Ask me about ~ Java || PHP || React || Next || Project Development
 
  - 😄 Fun fact ~ "It's all O's and 1's"
 
