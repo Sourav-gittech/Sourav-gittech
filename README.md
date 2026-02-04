@@ -1,6 +1,6 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=6E6E6E&width=510&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sourav+Mondal" alt="Typing SVG" /></a>
 
-💬 About Me: 
+💬 About Me:  
 
  - 🔭 I'm currently working on ~ Web Development Back-end || Frameworks
 
